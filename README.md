@@ -24,16 +24,16 @@
 # INSTALL LINK
 <pre><code>sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip && wget https://raw.githubusercontent.com/zxmenma/SimpleAutoscript/main/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh</code></pre>
 
-# Main Menu
+🔴 Main Menu <br>
 <b>
 <br>
 </b>
 <p align="center">
   <img src="https://raw.githubusercontent.com/zxmenma/SimpleAutoScript/main/main-menu.jpg" width="400" title="1"><br>
-# Port Info
+🔴 Port Info <br>
 <br>
  <img src="https://raw.githubusercontent.com/zxmenma/SimpleAutoScript/main/running-system.jpg" width="400" title="2"><br>
-# Setting Menu
+🔴 Setting Menu <br>
 <br>
 <img src="https://raw.githubusercontent.com/zxmenma/SimpleAutoScript/main/setting-menu.jpg" width="400" title="3"><br>
 <br>                                                                                                                                       
