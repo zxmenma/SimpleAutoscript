@@ -25,13 +25,13 @@
 <pre><code>sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip && wget https://raw.githubusercontent.com/zxmenma/SimpleAutoscript/main/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh</code></pre>
 
 # Menu
-![Service Status](https://raw.githubusercontent.com/zxmenma/SimpleAutoScript/main/image/main-menu.png)
+![Service Status](https://raw.githubusercontent.com/zxmenma/SimpleAutoScript/main/image/main-menu.jpg)
 
 # Running System
-![Service Status](https://raw.githubusercontent.com/zxmenma/SimpleAutoScript/main/image/running-system.png)
+![Service Status](https://raw.githubusercontent.com/zxmenma/SimpleAutoScript/main/image/running-system.jpg)
 
 # Setting Menu
-![Service Status](https://raw.githubusercontent.com/zxmenma/SimpleAutoScript/main/image/setting-menu.png)
+![Service Status](https://raw.githubusercontent.com/zxmenma/SimpleAutoScript/main/image/setting-menu.jpg)
 
 ## Service & Port:
 <br>
